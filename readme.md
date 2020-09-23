@@ -1,4 +1,4 @@
-![Logo](https://tectijuana.edu.mx/wp-content/uploads/2014/11/Heading-Ing-sistemas-2048x672.png)
+![Logo](https://tijuana.tecnm.mx/wp-content/uploads/2014/11/Heading-Ing-sistemas-2048x672.png)
 
 ### Sistemas Programables
 ### Docente: Jaime Leonardo Enriquez Alvarez
