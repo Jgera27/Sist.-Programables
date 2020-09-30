@@ -17,3 +17,6 @@
 :hourglass: [C1.1_ElectronicaBasica_y_elementos](/blog/C1.1_FernandoMelendez_DreamTeam.md)
 
 :hourglass: [C1.2_CircuitoElectricoBasico](/blog/C1.2_FernandoMelendez_DreamTeam.md)
+
+:hourglass: [C1.3_CircuitoElectricoDivisor_de_tension](/blog/C1.3_FernandoMelendez_DreamTeam.md)
+
