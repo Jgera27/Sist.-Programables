@@ -20,3 +20,4 @@
 
 :hourglass: [C1.3_CircuitoElectricoDivisor_de_tension](/blog/C1.3_FernandoMelendez_DreamTeam.md)
 
+:bomb: [A.1.2_SensorFotorresistivo](/blog/A.1.2_FernandoMelendez_DreamTeam.md)
