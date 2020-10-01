@@ -68,7 +68,6 @@ Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, u
 
 [Link a a la simulacion](https://www.tinkercad.com/things/dP3ou2a7z5H-start-simulating/editel?lessonid=EHD2303J3YPUS5Z&projectid=OIYJ88OJ3OPN3EA&collectionid=OIYJ88OJ3OPN3EA&sharecode=10HC6Ck1FtncHw_ABwvVHeOE7rtqYxFCo8aVI0nvywE&fbclid=IwAR1oWg5_KQDXONVyDuXyOVpUhY4L0Iie5ft0fyJ3i3TZmtWR9xEtqN5z4GA)
 
-
 5. Mida la **resistencia** de la fotorresistencia con el ohmetro bajo las siguientes condiciones: ausencia de luz u oscuridad,  luz ambiente, luz intensiva y registre en la tabla correspondiente.
 
 **Oscuridad**
@@ -95,7 +94,6 @@ Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, u
 <p align="center">
     <img alt="Logo" src="../img/A1.2x_maximoled.png" width=600 height=300>
 </p>
-
 
 7. Calcule el **valor de voltaje Vout teórico** para cada una de las condiciones antes indicadas asi como el valor de voltaje Vout medido  y registre en la tabla correspondiente.
 8. Calcule el **valor de exactitud** de voltaje entre lo teórico y lo medido para cada condición  y registre en la tabla correspondiente.
