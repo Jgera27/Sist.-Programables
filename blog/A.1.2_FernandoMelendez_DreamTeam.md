@@ -100,9 +100,9 @@ Realizar un sensor medidor de luz (lux) a través de un circuito electrónico, u
 
     | Condicion          |  Impedancia en fotoresistencia | Voltaje Vout teórico | Voltaje Vout medido | %  V.Medido/ V.Teórico |
     | --------------- | ----------------------------- | -------------------- | ------------------- | ---------------------- |
-    | Ausencia de luz |180,000 ohm|0.0276v|0.0277v|0.0277v / 0.0276v = 100.3%
-    | Luz ambiental   |900 ohm|2.63v|2.61v|2.61v / 2.63v = 99%
-    | Luz intensa     |506 omh|3.32v|3.32v|3.32v / 3.32v = 100%
+    | Ausencia de luz |180,000 ohm|(1000omh * 5v) / (180000omh + 1000ohm) = 5000omhv / 181000omh = 0.0277v|0.0277v|0.0277v / 0.0276v = 100.3%
+    | Luz ambiental   |900 ohm|(1000omh * 5v) / (900omh + 1000ohm) = 5000omhv / 1900omh = 2.63v|2.61v|2.61v / 2.63v = 99%
+    | Luz intensa     |506 omh|(1000omh * 5v) / (506omh + 1000ohm) = 5000omhv / 1900omh = 3.32v|3.32v|3.32v / 3.32v = 100%
 
 9. **Grafique** a través de los valores registrados en la tabla anterior de tal manera que se pueda observar el comportamiento de la curva del componente LDR e **inserte la grafica**.
 
