@@ -23,3 +23,5 @@
 :bomb: [A.1.2_SensorFotorresistivo](/blog/A.1.2_FernandoMelendez_DreamTeam.md)
 
 :hourglass: [C1.4_CircuitoAcondicionador_con_AmOP](/blog/C1.4_FernandoMelendez_DreamTeam.md)
+
+:bomb: [A1.3_Tipo_de_SemsoresComerciales](/blog/A1.3_FernandoMelendez_DreamTeam.md)
