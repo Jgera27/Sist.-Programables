@@ -25,3 +25,5 @@
 :hourglass: [C1.4_CircuitoAcondicionador_con_AmOP](/blog/C1.4_FernandoMelendez_DreamTeam.md)
 
 :bomb: [A1.3_Tipo_de_SemsoresComerciales](/blog/A1.3_FernandoMelendez_DreamTeam.md)
+
+:hourglass: [C1.5_Categoria_por_uso_Aplicativo](/blog/C1.5_FernandoMelendez_DreamTeam.md)
