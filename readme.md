@@ -29,3 +29,5 @@
 :hourglass: [C1.5_Categoria_por_uso_Aplicativo](/blog/C1.5_FernandoMelendez_DreamTeam.md)
 
 :hourglass: [C2.1_ActuadoresNeumaticosHidraulicos](/blog/C2.1_FernandoMelendez_DreamTeam.md)
+
+:hourglass: [C2.1_Cuestionario_de_ActuadoresElectricos](/blog/C2.2_FernandoMelendez_DreamTeam.md)
