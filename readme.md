@@ -37,3 +37,5 @@
 :hourglass: [C2.3_CircuitoTemporizador555](/blog/C2.3_FernandoMelendez_DreamTeam.md)
 
 :bomb: [A2.1_Tipos_Actuadores_Comerciales](/blog/A2.1_FernandoMelendez_DreamTeam.md)
+
+:bomb: [A2.2_Circuito_Temporizador_Actuador](/blog/A2.2_FernandoMelendez_DreamTeam.md)
