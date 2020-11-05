@@ -45,3 +45,6 @@
 
 :hourglass: [C3.2_ArduinoIDE_EntradaDigitalImpresionSerial](/blog/C3.2_FernandoMelendez_DreamTeam.md)
 
+:hourglass: [C3.3_ArduinoIDE_EntradaAnalogicaFuncionSerial](/blog/C3.3_FernandoMelendez_DreamTeam.md)
+
+:hourglass: [C3.4_ArduinoIDE_EntradaSalidaSensorFuncionSerial](/blog/C3.4_FernandoMelendez_DreamTeam.md)
