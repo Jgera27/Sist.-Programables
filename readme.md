@@ -51,4 +51,4 @@
 
 :bomb: [A3.1_Arduino_SensorUltrasonico](/blog/A3.1_FernandoMelendez_DreamTeam.md)
 
-:hourglass: [C3.6_ArduinoIDE_EntradaSalidaSensorFuncionSerial](/blog/C3.4_FernandoMelendez_DreamTeam.md)
+:hourglass: [C3.6_ArduinoIDE_ESP32_EntradaAnalogica](/blog/C3.6_FernandoMelendez_DreamTeam.md)
