@@ -54,3 +54,6 @@
 :hourglass: [C3.6_ArduinoIDE_ESP32_EntradaAnalogica](/blog/C3.6_FernandoMelendez_DreamTeam.md)
 
 :hourglass: [C3.7_ArduinoIDE_ESP32_PWM](/blog/C3.7_FernandoMelendez_DreamTeam.md)
+
+:bomb: [A3.2_ESP32_SensorTouch](/blog/A3.2_FernandoMelendez_DreamTeam.md)
+
