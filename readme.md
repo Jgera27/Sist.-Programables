@@ -57,3 +57,4 @@
 
 :bomb: [A3.2_ESP32_SensorTouch](/blog/A3.2_FernandoMelendez_DreamTeam.md)
 
+:hourglass: [C3.8_ArduinoIDE_ESP32_SensorTouch](/blog/C3.8_FernandoMelendez_DreamTeam.md)
