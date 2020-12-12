@@ -64,4 +64,6 @@
 # Unidad 4
 :hourglass: [C4.1_ArduinoIDE_ESP32_Bluetooth](/blog/C4.1_FernandoMelendez_DreamTeam.md)
 
+:bomb: [A4.1_ESP32_L293D_ControlMotorDC_Bluetooth](/blog/A4.1_FernandoMelendez_DreamTeam.md)
+
 :hourglass: [C4.2_ArduinoIDE_ESP32_WiFi](/blog/C4.2_FernandoMelendez_DreamTeam.md)
