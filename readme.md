@@ -67,3 +67,5 @@
 :bomb: [A4.1_ESP32_L293D_ControlMotorDC_Bluetooth](/blog/A4.1_FernandoMelendez_DreamTeam.md)
 
 :hourglass: [C4.2_ArduinoIDE_ESP32_WiFi](/blog/C4.2_FernandoMelendez_DreamTeam.md)
+
+:bomb: [A4.2_ESP32_SensorLDR_WebServer_WiFi](/blog/A4.2_FernandoMelendez_DreamTeam.md)
